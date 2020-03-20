@@ -1,0 +1,4 @@
+Hi all.This is file1
+fruit name:
+Appale
+Grapes.
